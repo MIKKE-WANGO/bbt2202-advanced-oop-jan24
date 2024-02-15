@@ -1,4 +1,4 @@
-public class Boat extends Vehicle {
+public class Boat extends Vehicle1 {
 
     private int maxSpeedKnots;
     private String propulsionSystem;

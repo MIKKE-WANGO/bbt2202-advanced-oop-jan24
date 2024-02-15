@@ -1,4 +1,4 @@
-public class Motorcycle extends Vehicle {
+public class Motorcycle extends Vehicle1 {
 
     private int numWheels;
     private boolean hasWindshield;

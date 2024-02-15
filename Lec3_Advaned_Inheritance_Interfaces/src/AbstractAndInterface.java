@@ -6,7 +6,7 @@ interface SelfDriving {
     void navigate();
 }
 
-class Bus extends Vehicle implements SelfDriving {
+class Bus extends Vehicle1 implements SelfDriving {
 
     @Override
     void startEngine() {

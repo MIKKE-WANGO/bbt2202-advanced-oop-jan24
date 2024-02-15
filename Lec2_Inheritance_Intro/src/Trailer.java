@@ -1,4 +1,4 @@
-public class Trailer extends Vehicle {
+public class Trailer extends Vehicle1 {
 
     private double cargoCapacityCubicFeet;
     private boolean hasRamp;
